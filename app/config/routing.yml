@@ -1,0 +1,2 @@
+_hrmweb_bench:
+    resource: "@HrmwebBenchBundle/Resources/config/routing.yml"
