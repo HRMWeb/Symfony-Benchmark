@@ -22,22 +22,11 @@ class Bench
      */
     protected $title;
 
-    /**
-     * Get id
-     *
-     * @return integer 
-     */
     public function getId()
     {
         return $this->id;
     }
 
-    /**
-     * Set title
-     *
-     * @param string $title
-     * @return Bench
-     */
     public function setTitle($title)
     {
         $this->title = $title;
@@ -45,11 +34,6 @@ class Bench
         return $this;
     }
 
-    /**
-     * Get title
-     *
-     * @return string 
-     */
     public function getTitle()
     {
         return $this->title;
