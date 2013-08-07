@@ -1,0 +1,3 @@
+_bench:
+    resource: "@HrmwebBenchBundle/Controller/BenchController.php"
+    type:     annotation
